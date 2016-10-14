@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144175179973",
+    "firebase_url": "https://mixpanelappsample.firebaseio.com",
+    "project_id": "mixpanelappsample",
+    "storage_bucket": "mixpanelappsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144175179973:android:29bb5bef33f5969a",
+        "android_client_info": {
+          "package_name": "com.mac.training.mixpanelappsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144175179973-8bnvklaop1198p6knlo274r52srd06gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.training.mixpanelappsample",
+            "certificate_hash": "F408C7123C494F8BB37A412E8DFA381EBFA98993"
+          }
+        },
+        {
+          "client_id": "144175179973-lrsvkqus0dnvk1rhl2ndgqkgnsfuaqtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeVPuDBEAxpnN5ii9HeypwXJiokDEtuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144175179973-lrsvkqus0dnvk1rhl2ndgqkgnsfuaqtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

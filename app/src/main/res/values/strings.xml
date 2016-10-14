@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MixPanelAppSample</string>
+    <string name="mixPanel_id_user">13793</string>
+    <string name="mixPanel_GoogleAPI_proj_num">144175179973</string>
+    <string name="mixPanel_token">a7d93621c87071e0cfe363b5a44fbfef</string>
+</resources>
